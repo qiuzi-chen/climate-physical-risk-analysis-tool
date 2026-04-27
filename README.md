@@ -24,17 +24,17 @@ An interactive dashboard that quantifies **physical climate risks** across asset
 ## Methodology
 
 **Scenario-based modeling:**  
-Uses different emissions pathways (RCP scenarios) to simulate future conditions. :contentReference[oaicite:0]{index=0}  
+Uses different emissions pathways (RCP scenarios) to simulate future conditions.
 
 **Risk framework:**  
 > Physical Risk Score = Hazard + Exposure + Vulnerability  
 
 - **Hazard:** climate event intensity and probability  
 - **Exposure:** asset location and exposure  
-- **Vulnerability:** sensitivity to impact :contentReference[oaicite:1]{index=1}  
+- **Vulnerability:** sensitivity to impact
 
 **Multi-hazard analysis:**  
-Covers risks such as flooding, drought, heat, and water stress using high-resolution geospatial data. :contentReference[oaicite:2]{index=2}  
+Covers risks such as flooding, drought, heat, and water stress using high-resolution geospatial data.
 
 
 ---
